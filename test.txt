@@ -1,0 +1,3 @@
+UC Berkeley¡¯s Fung Institute, with sponsorships from the Ewing Marion Kauffman Foundation and Silatech, has collected and aggregated data on global crowdfunding platforms with the goal of distributing information to researchers, policy experts and government officials in their efforts to guide policy and academic research.
+
+The database currently contains 6 global crowdfunding-platforms and their campaigns between 2005 and 2014. There are 3 different categories of crowdfunding platforms including reward/donation, equity and lending-based models. You can download for models, platforms, campaigns, project goal, amount, duration and backers information.
